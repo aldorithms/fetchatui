@@ -10,7 +10,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 If you are on Windows:
 ```sh
-winget install -e --id Rustlang.Rustup
+winget install --exact --id Rustlang.Rustup
 ```
 
 And then do:

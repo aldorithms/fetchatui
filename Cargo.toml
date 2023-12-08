@@ -9,6 +9,7 @@ edition = "2021"
 [dependencies]
 crossterm = "0.26.1"
 num-format = "0.4.4"
+query-shell = "0.3.0"
 ratatui = "0.24.0"
 sysinfo = "0.29.11"
 whoami = "1.4.1"

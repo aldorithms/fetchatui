@@ -1,0 +1,13 @@
+[package]
+name = "fetchatui"
+version = "0.1.0"
+authors = ["Aldo A. Avalos <99375833+aldorithms@users.noreply.github.com>"]
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.26.1"
+num-format = "0.4.4"
+ratatui = "0.24.0"
+sysinfo = "0.29.11"
+whoami = "1.4.1"

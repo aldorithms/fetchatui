@@ -1,5 +1,7 @@
 [package]
 name = "fetchatui"
+description = "A real time system information command written in Ratatui"
+
 version = "0.1.0"
 authors = ["Aldo A. Avalos <99375833+aldorithms@users.noreply.github.com>"]
 license = "MIT"

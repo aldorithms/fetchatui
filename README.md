@@ -13,7 +13,7 @@ cargo install --git https://github.com/aldorithms/fetchatui.git
 
 Method 2:
 In your repository folders: 
-```
+```sh
 git clone https://github.com/aldorithms/fetchatui.git
 cd fetchatui
 cargo run --release
